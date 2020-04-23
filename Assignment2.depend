@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1587585242 source:c:\cs201\assignment 2\assignment2\main.cpp
+	<iostream>
+	<ctime>
+	<math.h>
+	<cstdlib>
+	<stdlib.h>
+
